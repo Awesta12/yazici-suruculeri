@@ -1,0 +1,12 @@
+[
+  {
+    "klasor": "Ricoh-MP9001",
+    "bulutUrl": "https://github.com/AwestaYazilim/yazici-suruculeri/releases/download/v1.0/ricoh-mp9001.zip",
+    "infDosya": "r4600.inf",
+    "imzali": true,
+    "aciklama": "Ricoh Aficio MP Serisi (Bulut Sürümü)",
+    "modeller": [
+      { "gorunenAd": "RICOH Aficio MP 9001 PCL 6", "surucuAdi": "RICOH Aficio MP 9001 PCL 6" }
+    ]
+  }
+]
