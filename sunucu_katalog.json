@@ -7,8 +7,12 @@
     "aciklama": "Ricoh Aficio MP Serisi (Bulut Sürümü)",
     "modeller": [
       { "gorunenAd": "RICOH Aficio MP x001 PCL 6", "surucuAdi": "RICOH Aficio MP x001 PCL 6" }
+    ]
+  }
+]
 
-      {
+[
+ {
     "klasor": "Ricoh-MP_X500_PCL6",
     "bulutUrl": "https://github.com/Awesta12/yazici-suruculeri/releases/download/suruculer-v1/Ricoh-MP_X500_PCL6.zip",
     "infDosya": "OEMSETUP.inf",
@@ -16,6 +20,8 @@
     "aciklama": "Ricoh Aficio MP Serisi (Bulut Sürümü)",
     "modeller": [
       { "gorunenAd": "RICOH Aficio MP x500 PCL 6", "surucuAdi": "RICOH Aficio MP x500 PCL 6" }
-    ]
+      ]
   }
 ]
+  
+   
