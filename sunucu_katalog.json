@@ -2,7 +2,7 @@
   {
     "klasor": "Ricoh-MP_X001",
     "bulutUrl": "https://github.com/Awesta12/yazici-suruculeri/releases/download/suruculer-v1/Ricoh-MP_X001.zip",
-    "infDosya": "r4600.inf",
+    "infDosya": "OEMSETUP.inf",
     "imzali": true,
     "aciklama": "Ricoh Aficio MP Serisi (Bulut Sürümü)",
     "modeller": [
