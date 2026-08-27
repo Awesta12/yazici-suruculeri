@@ -65,11 +65,11 @@
     ]
   },
   {
-    "klasor": "okib4x1_PCL,
+    "klasor": "okib4x1_PCL",
     "bulutUrl": "https://github.com/Awesta12/yazici-suruculeri/releases/download/suruculer-v1/okib4x1_PCL.zip",
     "infDosya": "OKB3E03X.inf",
     "imzali": true,
-    "aciklama": OKİ B4X1 PCL (Bulut Sürümü)",
+    "aciklama": "OKİ B4X1 PCL (Bulut Sürümü)",
     "modeller": [
       {
         "gorunenAd": "OKİ B4X1 PCL",
