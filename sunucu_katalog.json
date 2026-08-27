@@ -24,5 +24,18 @@
         "surucuAdi": "HP LaserJet X500 PCL 6"
       }
     ]
+  },
+  {
+    "klasor": "kyocera_kx_universal",
+    "bulutUrl": "https://github.com/Awesta12/yazici-suruculeri/releases/download/suruculer-v1/kyocera_kx_universal.zip",
+    "infDosya": "OEMSETUP.inf",
+    "imzali": true,
+    "aciklama": "Kyocera Universal (Bulut Sürümü",
+    "modeller": [
+      {
+        "gorunenAd": "Kyocera Universal KX",
+        "surucuAdi": "Kyocera Universal KX"
+      }
+    ]
   }
 ]
