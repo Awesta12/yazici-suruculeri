@@ -17,11 +17,11 @@
     "bulutUrl": "https://github.com/Awesta12/yazici-suruculeri/releases/download/suruculer-v1/Ricoh-MP_X500_PCL6.zip",
     "infDosya": "OEMSETUP.inf",
     "imzali": true,
-    "aciklama": "Ricoh Aficio MP Serisi (Bulut Sürümü",
+    "aciklama": "Ricoh Aficio MP Serisi (Bulut Sürümü)",
     "modeller": [
       {
         "gorunenAd": "RICOH Aficio MP x500 PCL 6",
-        "surucuAdi": "HP LaserJet X500 PCL 6"
+        "surucuAdi": "RICOH Aficio MP x500 PCL 6"
       }
     ]
   },
@@ -30,11 +30,24 @@
     "bulutUrl": "https://github.com/Awesta12/yazici-suruculeri/releases/download/suruculer-v1/kyocera_kx_universal.zip",
     "infDosya": "OEMSETUP.inf",
     "imzali": true,
-    "aciklama": "Kyocera Universal (Bulut Sürümü",
+    "aciklama": "Kyocera Universal (Bulut Sürümü)",
     "modeller": [
       {
         "gorunenAd": "Kyocera Universal KX",
         "surucuAdi": "Kyocera Universal KX"
+      }
+    ]
+  },
+  {
+    "klasor": "Ricoh-MP_X500_PCL5e",
+    "bulutUrl": "https://github.com/Awesta12/yazici-suruculeri/releases/download/suruculer-v1/Ricoh-MP_X500_PCL5e.zip",
+    "infDosya": "OEMSETUP.inf",
+    "imzali": true,
+    "aciklama": "Ricoh Aficio MP x500 PCL5e (Bulut Sürümü)",
+    "modeller": [
+      {
+        "gorunenAd": "Ricoh Aficio MP x500 PCL5e",
+        "surucuAdi": "Ricoh Aficio MP x500 PCL5e"
       }
     ]
   }
