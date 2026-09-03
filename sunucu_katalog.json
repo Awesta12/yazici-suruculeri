@@ -90,17 +90,4 @@
       }
     ]
   }
- {
-    "klasor": "z06601L16",
-    "bulutUrl": "https://github.com/Awesta12/yazici-suruculeri/releases/download/suruculer-v1/z06601L16.zip",
-    "infDosya": "oemsetup.inf",
-    "imzali": true,
-    "aciklama": "Ricoh Aficio MP xx03 PCL6 (Bulut Sürümü)",
-    "modeller": [
-      {
-        "gorunenAd": "Ricoh Aficio MP xx03 PCL6",
-        "surucuAdi": "Ricoh Aficio MP xx03 PCL6"
-      }
-    ]
-  },
 ]
